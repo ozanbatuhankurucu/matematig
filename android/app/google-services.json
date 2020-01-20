@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "521545678626",
+    "firebase_url": "https://matematigfirebase.firebaseio.com",
+    "project_id": "matematigfirebase",
+    "storage_bucket": "matematigfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521545678626:android:af3de656aed4e7bd",
+        "android_client_info": {
+          "package_name": "com.ozanbatuhankurucu.matematig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521545678626-icupjvam2rom5ji79tjo46s5het5ruea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsSsRWnWEoVF_4QIvyNUrJpeOjFfVZePY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521545678626-icupjvam2rom5ji79tjo46s5het5ruea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1727786720770536~8854885998"
+    }
+  ],
+  "configuration_version": "1"
+}

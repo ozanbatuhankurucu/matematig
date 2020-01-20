@@ -1,0 +1,122 @@
+[
+  {
+    "bolum_adi" : "Yazılım Muhendisliği",
+    "onsekiz_kontenjan" : 97,
+    "ondokuz_kontenjan" : 101
+  },
+
+  {
+    "bolum_adi" : "Veterinerlik",
+    "onsekiz_kontenjan" : 213,
+    "ondokuz_kontenjan" : 214
+  },
+
+  {
+    "bolum_adi" : "Uçak-Muh-Gövde-Motor",
+    "onsekiz_kontenjan" : 94,
+    "ondokuz_kontenjan" : 88
+  },
+
+  {
+    "bolum_adi" : "Sosyal Hizmetler",
+    "onsekiz_kontenjan" : 389,
+    "ondokuz_kontenjan" : 321
+  },
+
+  {
+    "bolum_adi" : "Okul Öncesi",
+    "onsekiz_kontenjan" : 588,
+    "ondokuz_kontenjan" : 515
+  },
+
+  {
+    "bolum_adi" : "Makine Muhendisliği",
+    "onsekiz_kontenjan" : 864,
+    "ondokuz_kontenjan" : 839
+  },
+
+  {
+    "bolum_adi" : "İnşaat Muhendisliği",
+    "onsekiz_kontenjan" : 1035,
+    "ondokuz_kontenjan" : 999
+  },
+
+  {
+    "bolum_adi" : "İlahiyat-İlitam",
+    "onsekiz_kontenjan" : 4896,
+    "ondokuz_kontenjan" : 4920
+  },
+
+  {
+    "bolum_adi" : "Hukuk",
+    "onsekiz_kontenjan" : 1012,
+    "ondokuz_kontenjan" : 702
+  },
+
+  {
+    "bolum_adi" : "Hemşirelik",
+    "onsekiz_kontenjan" : 1346,
+    "ondokuz_kontenjan" : 1284
+  },
+
+  {
+    "bolum_adi" : "Gıda Muhendisliği",
+    "onsekiz_kontenjan" : 280,
+    "ondokuz_kontenjan" : 238
+  },
+
+  {
+    "bolum_adi" : "Gemi Makine Tasarım",
+    "onsekiz_kontenjan" : 79,
+    "ondokuz_kontenjan" : 72
+  },
+
+  {
+    "bolum_adi" : "Gastronomi",
+    "onsekiz_kontenjan" : 230,
+    "ondokuz_kontenjan" : 232
+  },
+
+  {
+    "bolum_adi" : "Fizyoterapi",
+    "onsekiz_kontenjan" : 464,
+    "ondokuz_kontenjan" : 425
+  },
+
+  {
+    "bolum_adi" : "Enerji Sistemleri Muhendisliği",
+    "onsekiz_kontenjan" : 119,
+    "ondokuz_kontenjan" : 116
+  },
+
+  {
+    "bolum_adi" : "Elektrik Muhendisliği",
+    "onsekiz_kontenjan" : 39,
+    "ondokuz_kontenjan" : 39
+  },
+
+  {
+    "bolum_adi" : "Endustri Muhendisliği",
+    "onsekiz_kontenjan" : 608,
+    "ondokuz_kontenjan" : 491
+  },
+
+  {
+    "bolum_adi" : "Bilgisayar Muhendisliği",
+    "onsekiz_kontenjan" : 809,
+    "ondokuz_kontenjan" : 762
+  },
+
+  {
+    "bolum_adi" : "Çocuk Gelişimi",
+    "onsekiz_kontenjan" : 219,
+    "ondokuz_kontenjan" : 209
+  },
+
+  {
+    "bolum_adi" : "Beslenme",
+    "onsekiz_kontenjan" : 437,
+    "ondokuz_kontenjan" : 413
+  }
+
+]
